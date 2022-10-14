@@ -1,7 +1,8 @@
-# The Wonderful World of Widgets
+# IP tracker using API
 
 This exercise reverses the roles from yesterday: today the API has been (partially) built for us. Our job is to build the React front end that consumes the API (using the node module `superagent`), and store the resulting data into component state.
 
+# **This ReadMe is a template, delete when completed challenge. **
 ## Setup
 
 ### 0. Installation and migrations
